@@ -1,2 +1,0 @@
-# moon-frontend
-moon-frontend
